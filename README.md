@@ -1,2 +1,2 @@
-# k8s
+# kubernetes
 k8s learning
